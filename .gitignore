@@ -1,0 +1,4 @@
+*.png
+*.csv
+!Coffeebar_2016-2020.csv
+env_python_tse_2022_2023/
