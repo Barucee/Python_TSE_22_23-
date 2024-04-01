@@ -13,7 +13,8 @@ The present project contains a variety of files with the following structure:
     - Extra Plots: plots regarding the provided data frame and the one created
 3) Data Directory: contains the provided data frame and three other files containing probabilities.
 4) Results Directory: Saved graphs and simulation results saved.
-5) env_python_tse_2022_2023: python environment which has not been pushed to the repository
+5) RAVEY_Bruce_TSE_paper.pdf : Written file given to the Professor with the programming folder.
+6) env_python_tse_2022_2023: python environment which has not been pushed to the repository
 
 ASSUMPTIONS MADE:
 - The Coffee Bar is open every day (no exception) during 5 years
